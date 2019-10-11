@@ -1,7 +1,7 @@
 # CERN-Hackathon
-Contribution by Marco Knipfer, 10/09/2019
+Contribution by mKnipfer, 10/09/2019
 
-Sorry for not working in your framework of python + root, but I don't understand root.
+<!--Sorry for not working in your framework of python + root, but I don't understand root.-->
 
 Files:
 - FindFeatures.ipynb: Tried to construct new features, didn't really work out
